@@ -1,1 +1,1 @@
-# check-operations-of-std-allocator_traits
+# check operations of std::allocator_traits
